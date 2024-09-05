@@ -1,0 +1,6 @@
+.navbar-container {
+    height: 10vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center
+};

@@ -1,0 +1,25 @@
+
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    border-radius: 50%;
+    max-width: 100px;
+    margin: auto;
+    display: block;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.25rem;
+}
+
+.card-subtitle {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
